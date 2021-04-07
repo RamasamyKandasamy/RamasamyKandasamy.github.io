@@ -1,0 +1,28 @@
+h1 { 
+	color: blue;
+	font-family: Helvetica;
+	font-size: 300%;
+	align-content: center;
+}
+
+h2 {
+	color: #0f0f0f;
+	background-color: #f0f0f0;
+	font-family: Helvetica;
+}
+
+p {
+	font-family: Arial;
+}
+
+.bd {
+	width: 50%;
+	margin: 20px;
+}
+
+.btn {
+	color: black;
+	background-color: silver;
+	border-color: black;
+	font-family: Verdana;
+}
